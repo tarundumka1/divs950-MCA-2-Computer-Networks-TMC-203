@@ -2,7 +2,7 @@
 Mid-Term Practical Exam
 Instructions:
 1. This paper contains two questions. Both are Compulsory. Marks are written against the questions.
-2. Answers must be handwritten and create PDF file in your folder.
+2. Practicals will be performed in Packet Tracer. Answers must be handwritten and create PDF file in your folder.
 3. Make folder of your name_universityrollno.
 
 
